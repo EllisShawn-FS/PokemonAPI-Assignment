@@ -1,0 +1,13 @@
+{
+  "name": "pokemonapi-assignment",
+  "version": "1.0.0",
+  "main": "pokemonAPI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node pokemonAPI.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
